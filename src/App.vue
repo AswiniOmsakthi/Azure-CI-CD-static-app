@@ -1,7 +1,12 @@
 <template>
   <div id="app">
+<<<<<<< HEAD
     <h1>Psitron Gen AI Model</h1>
 	<h2>Upload your data to make GEN AI predictions</h2>
+=======
+    <h1>Your Gen AI Model</h1>
+	<h2>Upload your data to make to get predictions</h2>
+>>>>>>> 56e5ef944a1a963f6f6587d48013001d7157c072
     <img
       alt="Vue logo"
       style="width: 100px; height: 100px"
