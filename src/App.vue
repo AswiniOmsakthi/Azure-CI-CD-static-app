@@ -1,7 +1,7 @@
 <template>
   <div id="app">
 
-    <h1>MLOps and AI for Everyone</h1>
+    <h1>GEN AI for Every Business</h1>
 	<h2>Upload your data to make GEN AI predictions</h2>
 
     <img
